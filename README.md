@@ -50,8 +50,8 @@ Run `./interp_s TTLs/FILE.ttl OUTPUT_FILE.ps`
 
 3. Use the instructions within the program to operate the terminal
 
-4. Check outputted TTL file (The file can be passed to the `./interp_s file`).
+4. Check the outputted TTL file (The file can be passed to the `./interp_s file`).
 
 ## Acknowledgments
 
-This is an assignment given by the instructor at the University of Bristol: [Neil](https://github.com/csnwc) from the Programing in C course.
+This is an assignment given by the instructor at the University of Bristol: [Neil](https://github.com/csnwc) from the Programming in C course.
